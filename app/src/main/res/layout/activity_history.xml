@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+<LinearLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HistoryActivity"
+    android:background="#922B2B"
+    android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/indonesia" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="HISTORY INDONESIA"
+            android:textSize="30dp"
+            android:textColor="#cec9c9"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:text="Tim nasional sepak bola Indonesia, juga disebut Timnas adalah tim yang mewakili Indonesia di sepak bola internasional. Tim ini dikontrol oleh Persatuan Sepak Bola Seluruh Indonesia atau PSSI dan merupakan anggota dari Konfederasi Sepak Bola Asia. Sebelum kemerdekaan pada 1945, tim ini menggunakan nama tim nasional sepak bola Hindia Belanda. Dengan nama itulah, tim ini bermain di Piala Dunia FIFA 1938 di Perancis, di mana mereka kalah dari Hongaria di putaran pertama dan belum pernah lolos lagi sampai saat ini."
+        android:textSize="15dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="PERIODE AWAL"
+        android:textStyle="bold"
+        android:paddingTop="8dp"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pada pertandingan-pertandingan awal, melibatkan pihak dari Hindia Belanda, diorganisasi oleh Nederlandsch Indische Voetbal Bond (NIVB), atau suksesornya, Nederlandsch Indische Voetbal Unie (NIVU). Pertandingan-pertandingan yang dilaksanakan sebelum kemerdekaan Indonesia pada tahun 1945 tidak diakui oleh PSSI.[2]
+    Pertandingan sepak bola tercatat pertama yang melibatkan tim dari Hindia Belanda adalah kontes melawan Singapura pada 28 Maret 1921. Pertandingan tersebut dilaksanakan di Jakarta dan Indonesia menang dengan skor akhir 1-0. Hal ini diikuti dengan pertandingan melawan Australia XI pada Agustus 1928 (menang 2-1) dan 1 tim dari Shanghai 2 tahun kemudian (seri 4-4).[2]
+    Pada 1934, 1 tim dari Jawa mewakili Hindia Belanda dalam Far Eastern Games yang dimainkan di Manila, Filipina. Meskipun mengalahkan Jepang 7-1 dalam pertandingan pertama,[3] 2 pertandingan berikutnya berakhir dengan kekalahan 0-2 atas Tiongkok dan 2-3 atas tim tuan rumah menempatkan Timnas Jawa menempati peringkat 2. Meski tidak diakui PSSI, pertandingan ini diakui oleh World Football Elo ratings sebagai pertandingan pertama yang melibatkan Timnas Indonesia.[4]"
+        android:paddingTop="4dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PIALA DUNIA FIFA 1938"
+        android:paddingTop="8dp"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Indonesia pada tahun 1938 (pada masa penjajahan Belanda) sempat lolos dan ikut bertanding di Piala Dunia FIFA 1938. Waktu itu Tim Indonesia di bawah nama Dutch East Indies (Hindia Belanda), peserta dari Asia yang pertama kali lolos ke Piala Dunia. Indonesia tampil mewakili zona Asia di kualifikasi grup 12. Grup kualifikasi Asia untuk Piala Dunia FIFA 1938 hanya terdiri dari 2 negara, Indonesia (Hindia Belanda) dan Jepang karena saat itu dunia sepak bola Asia memang hampir tidak ada. Namun, Indonesia akhirnya lolos ke final Piala Dunia 1938 tanpa harus menyepak bola setelah Jepang mundur dari babak kualifikasi karena sedang berperang dengan Cina.
+Pada waktu itu tim ini menggunakan seragam berwarna oranye dan bercelana putih seperti warna seragam yang dipakai kesebelasan Belanda.[5]"
+        android:paddingTop="4dp"/>
+
+
+
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileActivity"
+    android:orientation="vertical"
+    android:background="#922B2B">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/indra_sjafri"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="INDRA SJAFRI"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pelatih kelahiran Pebruari 1963 ini mulai dikenal ketika dirinya dipercaya untuk menangani Timnas Indonesia U-16 yang akan tampil di babak penyisihan Piala Asia U16, di Thailand. Sayangnya pelatih yang akrab disapa Indra ini gagal membawa tim asuhannya ke tangga juara.
+
+Di tahun 2012 Indra Sjafri mempersembahkan gelar juara di turnamen Hong Kong International Youth Football yang berlangsung dari 27-29 Januari 2012 bersama Timnas U-17. Sementara di tahun 2013, Indra kembali membawa Indonesia juara di ajang Piala AFF U-19. Pelatih berdarah Minang ini mampu membawa Evan Dimas dan kawan-kawan juara setelah mengalahkan Vietnam 7-6 melalui adu penalti, setelah dalam 120 menit bermain imbang 0-0 di Stadion Gelora Delta, Sidoarjo, Minggu (22/9).
+
+Mulai tahun 1997 sampai dengan 2010, Indra sjafri memfokuskan dirinya untuk menjadi pelatih yang lebih profesional. Pada 1997, Indra dapat lisensi C AFC, kemudian naik bertahap ke level B pada 1998 dan A pada 1999. Pada 2010, Indra mengikuti kursus penyegaran pelatih dalam program FIFA Futuro. Di tahun yang sama pula, Indra mengambil lisensi A AFC Instruktur Akar Rumput FIFA.
+
+Indra sangat peduli pada pembinaan pemain usia muda karena dia menganggap tidak adanya prestasi di timnas adalah dampak dari kurangnya pembinaan di usia dini. Sejak tahun 2011 sedikitnya sebanyak 43 daerah sudah dikunjungi oleh Indra Sjafri untuk mendapatkan bibit – bibit terbaik sepakbola. Hasil kinerja Indra itu membuahkan hasil. Contohnya adalah kapten timnas U-19 saat ini, Evan Dimas. Dia yang gagal lolos seleksi timnas SAD yang dikirim ke Uruguay malah menjadi bagian penting tim asuhannya itu.
+
+Keberhasilan indra Sjafri mengantarkan Timnas Indonesia U-19 menjuarai piala AFF U-19 membuat pengurus PSSI memberi kepercayaan kepadanya untuk melatih tim yang sama ke kualifikasi Piala AFC U-19 yang akan berlangsung bulan Oktober 2013. Hasilnya dalam kualifikasi itu, Indonesia finis dengan menempati posisi teratas grup G mengungguli macan Asia, Korea Selatan, Filipina dan Laos.
+"
+            android:paddingTop="5dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

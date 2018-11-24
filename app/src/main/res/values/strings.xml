@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">Timnas U-19</string>
+    <string-array name="nama_pemain_tim_inti">
+        <item>Muhamad Riyandi (GK)</item>
+        <item>Rifad Marasabessy</item>
+        <item>Rachmat Irianto</item>
+        <item>Nurhidayat Haris</item>
+        <item>Samuel Christianson Simanjuntak</item>
+        <item>Asnawi Mangkualam</item>
+        <item>Syahrian Abimanyu</item>
+        <item>Feby Eka Putra</item>
+        <item>Muhammad Iqbal</item>
+        <item>Hanis Saghara Putra</item>
+        <item>Egy Maulana Vikri</item>
+    </string-array>
+    <string-array name="profile_pemain_tim_inti">
+        <item>lahir di Bogor, Jawa Barat, 3 Januari 2000, umur 18 tahun</item>
+        <item>Muhammad Rifad Marasabessy adalah seorang pemain sepak bola asal Indonesia. Ia dilahirkan di Tulehu, 7 Juli 1999. Saat ini ia tergabung ke dalam skuad Timnas U-19 dan klub Madura United.</item>
+        <item>Rachmat Irianto atau akrab di sapa Rian lahir di Surabaya, 3 September 1999, umur 19 tahun adalah Pemain sepak bola berkebangsaan Indonesia yang bermain untuk klub Persebaya Surabaya dan Indonesia U-19 sebagai Bek.</item>
+        <item>Nurhidayat Haji Haris adalah seorang pemain sepak bola asal Indonesia. Ia dilahirkan di Makassar, 5 April 1999. Saat ini ia tergabung dalam skuat Garuda Nusantara Timnas Indonesia U-19 dan klub PSM Makassar.</item>
+        <item>Pemuda kelahiran Jakarta, 31 Juli 1999 itu mengawali karier sepakbola sejak usianya masih belia. Samuel merupakan jebolan Sekolah Sepakbola (SSB) Jakarta Football Academy.</item>
+        <item>Asnawi Mangkualam Bahar (lahir di Makassar, Sulawesi Selatan, 4 Oktober 1999; umur 19 tahun) adalah pesepakbola profesional Indonesia yang saat ini bermain untuk PSM Makassar sebagai gelandang.</item>
+        <item>Syahrian Abimanyu (lahir di Banjarnegara, Jawa Tengah, 25 April 1999; umur 19 tahun) adalah pemain sepak bola berkebangsaan Indonesia yang bermain untuk klub Sriwijaya FC dan Indonesia U-19 sebagai Gelandang.</item>
+        <item>Feby Eka Putra (lahir di Sidoarjo, 12 Februari 1999; umur 19 tahun) adalah Pemain Sepak bola Kebangsaan Indonesia. Ia bermain untuk SSB Gen B Mojokerto dan Tim Indonesia U-19 sebagai Gelandang.</item>
+        <item>Muhammad Iqbal (lahir di Kudu Ganting, V Koto Timur, Padang Pariaman, 27 Oktober 2000; umur 18 tahun) adalah Pemain Sepak bola Indonesia. Ia bermain sebagai Gelandang untuk Persika Karawang dan Indonesia U-19.</item>
+        <item>Hanis Sagara Putra (lahir di Sugihwaras, Bojonegoro, 8 September 1999; umur 19 tahun) adalah pemain sepak bola berkebangsaan Indonesia. Ia saat ini bermain bersama klub Bali United F.C. dan Indonesia U-19.</item>
+        <item>Egy Maulana Vikri (lahir di Medan, Sumatera Utara, 7 Juli 2000; umur 18 tahun) Adalah Pesepakbola Indonesia. Ia bermain di Tim Nasional Indonesia U-19.</item>
+    </string-array>
+    <string-array name="detail_pemain_tim_inti">
+        <item>Riyandi dikontrak untuk memperkuat PS Barito Putera di ajang Indonesia Soccer Championship A 2016. Putra Bogor ini menjadi pemain termuda yang direkrut PS Barito Putera. Debutnya dijalani ketika PS Barito Putera bertandang ke Persib Bandung. Riyandi yang masih berusia 16 tahun dimainkan oleh pelatih Mundari Karya sejak menit awal. Meski gawangnya bobol 2 (dua) kali, namun Riyandi berhasil menggagalkan eksekusi pinalti Samsul Arif. Pasca pertandingan tersebut, karena performa apiknya, Riyandi kembali menjadi pilihan utama Mundari Karya, dalam pertandingan menghadapi Persiba Balikpapan. Gawangnya memang kembali kebobolan pada pertandingan itu, tetapi PS Barito Putera berhasil mengalahkan Persiba Balikpapan, 3-1. Dan itu menjadi kemenangan perdana Riyandi bersama tim senior PS Barito Putera.</item>
+        <item>Rifad berposisi sebagai pemain belakang ini akan berlaga di ajang Piala AFF U-18 Myanmar. Pemain bernomor punggung 12 di Madura United ini dipanggil untuk mengikuti seleksi dan training center Timnas U-19 pada Maret 2017.
+
+Pelatih Indra Sjafri tertarik untuk merekrut pemain asal Tulehu ini karena melihat Rifad berlaga di Piala Presiden 2017 lalu. Menurutnya, Rifad bermain cemerlang bersama Madura United meskipun dihujani serangan-serangan dari tim lawan.
+
+Pelatih Madura United, Gomes de Olivera juga mengatakan jika Rifad adalah pemain belia yang secara skill mumpuni. Maka dari itu dirinya sering membawa Rifad masuk ke dalam starting line up saat Piala Presiden lalu.
+
+Dukungan penuh dari tim Madura United selalu ada untuk Rifad. Hingga saat ini, pemain bertinggi badan 166 cm ini tercatat sebagai pemain kedua dari Madura United yang dipanggil timnas selama musim 2017. Selain itu, Rifad juga lolos sebagai pemain sepak bola yang tergabung untuk menjadi bintara TNI AD pada September 2015.</item>
+        <item>Bek muda calon pemimpin Persebaya Surabaya di masa mendatang. Gaya main Rachmat Irianto begitu mirip dengan sang ayah, Bejo Sugiantoro. Rian, sapaan akrabnya merupakan produk klub internal Persebaya. Dia pernah membela Bintang Timur sebelum ke Indonesia Muda. Rian yang disibukkan oleh agenda timnas U-23 hingga usai Asian Games 2018 bisa main di tiga posisi. Selain bek tengah, peran menjadi gelandang bertahan dan fullback juga bisa dijalaninya dengan apik.</item>
+        <item>Atlet bertinggi badan 175 cm ini mengidolakan sosok dari pemain PSM Makassar juga yakki Hamka Hamzah. Meski tergabung dalam PSM Makassar, Nurhidayat belum pernah dimainkan di laga resmi PSM Makassar. Hal itu dikarenakan padatnya jadwal dan agenda latihan jangka panjang di Timnas yang memungkinkan atlet asli Makassar ini tidak akan membela PSM hingga Liga 1 2017 berakhir November mendatang.
+
+Selain itu, Nurhidayat yang didaulat menjadi kapten cadangan Timnas U-19 ini juga menjadi skuat Garuda Nusantara yang bertanding di turnamen Toulon, Prancis pada 29 Mei hingga 10 Juni lalu.</item>
+        <item>Saat usianya 12 tahun, Samuel terpilih dalam seleksi pemain yang diberi kesempatan untuk berlatih bersama salah satu klub Inggris, Southampton pada tahun 2012.
+
+Ceritanya, pada tahun 2012 itu, Samuel yang saat itu masih tergabung dengan JFA, terpilih sebagai salah satu peserta yang berlatih di akademi sepak bola Southampton.
+
+JFA memilih Southampton sebagai salah satu kiblat sekolah sepak bola yang terbaik di Inggris untuk anak-anak usia dini, khususnya untuk kelompok usia 9 tahun hingga 16 tahun.
+
+Sekolah usia dini Southampton melahirkan nama-nama tenar seperti Alex Oxlade-Chamberlain, Gareth Bale, dan Alan Shearer.
+
+Sepak terjang Samuel terus berlanjut. Pemain yang memiliki spesialisasi bek sayap ini kemudian berkesempatan untuk menimba ilmu di sebuah akademi sepakbola ternama di Valencia, Spanyol, yakni Royal European Football Academy (REFA).</item>
+
+        <item>Asnawi Mangkualam Bahar terhitung sudah membela skuat garuda muda sebanyak tiga kali yakni pada laga Timnas U-16, U-19 pada saat kepemimpinan Eduard Tjong, dan U-19 yang dilatih oleh Indra Sjafri saat ini meskipun saat ini usia nya masih muda yakni 18 tahun.
+
+Asnawi begitu sapaan akrab laki-laki kelahiran 04 Oktober 1999 ini memiliki tipikal bermain yang energik sebagai gelandang pertahanan dan memiliki peran untuk mengalirkan bola ke pemain penyerang maupun ke pamain bertahan.
+
+Tak berbeda jauh dengan pemain bola asal Makasar yang lainnya, Asnawi merupakan pemain yang ulet dan tak segan-segan bermain keras untuk menghentikan serangan lawan dalam duel satu lawan satu. Asnawi akan berperan sebagai jangkar yang akan menggangu setiap pergerakan lawan yang mencoba untuk memasuki daerah kotak pinalti.
+
+Terdapat sedikit perbedaan tipikal permainan antara Evan Dimas dengan Asnawi yakni jika Asnawi suka menggiring bola berlama-lama sedangkan Evan Dimas tidak demikian. Asnawi memiliki kondisi kebugaran tubuh dan stamina yang prima sehingga menjadikannya sosok yang memiliki mobilitas tinggi di lapangan hijau. Hal tersebut juga menjadi alasan mengapa Asnawi menempati posisi pemain pelapis saat berada di Timnas Indonesia U-22 yang bertarung dalam laga SEA Games 2017.
+
+Bakat Asnawi yang merupakan putra dari legenda PSM Bahar Muharram diketahui setelah ia membela Tim PON Sulawesi Selatan pada tahun 2016 silam. Memulai karier profesionalnya di Klub Persiba Balikapapan membuatnya mampu mencetak gol termuda di Indonesia Soccer Cahmpionship.
+
+Asnawi mampu membobol gawang Bali United yang dijaga oleh I Wayan Dipta pada usia 17 tahun di Gianyar Bali saat melakoni debut di Tim Beruang Madu. Asnawi sempat mendapat julukan The Next Evan Dimas meskipun gaya permainan keduanya memiliki perbedaan.</item>
+
+        <item>Syahrian Abimanyu adalah putera dari Bapak Rasiman dan Ibu Nur. Pemain yang akrab disapa Abi ini memiliki bakat turunan sepak bola dari ayahnya (Rasiman) yang berprofesi sebagai asisten pelatih timnas U-19 tahun 2015, dan sekarang melatih salah satu klub di Malaysia. Abi lahir di Dusun Tlete, Desa Purwareja, Kecamatan Klampok, Kabupaten Banjarnegara, Jateng. Kini ia berdomisili di Spanyol.
+
+Punggawa Mildfier jebolan timnas U-16 ini pernah menempa bakat sepakbolanya di SSB Mandiri Jaya Bogor, JFA (Jakarta Football Academy), Academy of Espana (Valencia). Latihannya tak sia-sia, Abi pernah masuk squad Timnas Junior, menjadi top skor U-13 2011/ 2013, berpartisipasi dikejuaraan AFF U-16 2013, AFC U-16 2014, Timnas U-19 2015, Timnas U-19 2016.
+
+Abi dan kelima kawannya yaitu Dallen Ramadhan Doke, Hanif Faturrahman, Ridho Ramadhan, Samuel Christiansan, Muhammad Putra, menjadi sorotan saat menjalani laga lawatan di Inggris (29 Februari – 29 Maret 2012 tanpa campur tangan PSSI dan pemerintah) karena mampu mengalahkan 3 club akademi negara Ratu Elizabeth II. Mengalahkan akademi Leicester City dengan skor 3-1, Manchester City (2-1), dan Manchester United (2-1).  Abi dan kelima kawannya itu dinilai layak bergabung di akademi sepak bola City.
+
+Sayangnya, enam siswa SSB Mandiri tersebut tidak bisa dengan mudah masuk ke akademi Manchester City. Sebab, mereka terkendala izin tinggal di Inggris. Sesuai dengan ketentuan, mereka harus tinggal selama dua tahun di luar Inggris lebih dulu sebelum nanti bersekolah di akademi.  Singkat cerita, Abi dan kelima kawannya lalu resmi bergabung dengan JFA. Lewat JFA mereka dikirim ke Valencia untuk mendapatkan pelatihan yang lebih baik lagi. Sebelumnya, Abi pernah mengikuti tes untuk masuk club Persija Jakarta (19-8-2015) saat persija diwabah asuhan coach RD (Rahmat Darmawan). Alhamdulillah, sekarang Abi berstatus pemain Royal European Football Academy (REFA) di Valencia, Spanyol.</item>
+        <item>Feby Eka Putra adalah salah satu putra daerah berbakat asal Sidoarjo, Jawa Timur yang tergabung dalam Tim Nasional U-19. Feby begitu ia akrab disapa, berasal dari klub Asprov Jawa Timur dan menempati posisi sebagai gelandang sayap dengan nomor punggung 14. Feby lahir di Sidoarjo Jawa Timur pada tanggal 12 Februari 1999.
+
+Dalam laga kedua grup B Indonesia kontra Filipina Piala AFF U-18 2017 yang berlangsung di Stadion Thuwunna, Yangon, Myanmar pada Kamis (7/9/2017) malam, Feby Eka Putra tampil apik dengan torehan tiga gol dan satu assist.
+
+Usai laga, Feby tidak lupa mengucapkan rasa syukurnya dan mempersembahkan kemenangan dan golnya untuk tim, keluarga dan seluruh masyarakat Indonesia yang telah mendukung melalui doa. Berikutnya, Indonesia masih harus menjalani dua kali pertandingan di fase grup B melawan Vietnam (11/9/2017) dan Brunei Darussalam (13/9/2017).</item>
+        <item>Semenjak Timnas U-19 menjuarai Piala AFF pada tahun 2013 lalu. Kini semakin banyak lagi bintang-bintang muda Indonesia mulai bermunculan. Di Piala AFF pada 2013 lalu ada nama Evan Dimas yang sangat mencolok dan menjadi bintang lapangan dan sampai saat ini menjadi Timnas Indonesia.Dan kemarin muncul nama Egy maulana Vikri yang namanya sekarang meroket dan menjadi bintag lapangan di Indonesia.Dan kini muncul nama Muhammad Iqbal. Sebanyak 23 orang talenta muda yang dibawa Indra Sjafri, pelatih ‘bertangan dingin’ asal pesisir Selatan, Sumatera Barat itu, mampu menghibur penonton melalui permainan apik nan menawan. Ya, salah satu yang dimaksud adalah Muhammad Iqbal. Berposisi sebagai gelandang tengah, bertugas mengatur pola serang dan juga membantu pertahanan.
+
+Muhammad Iqbal bernomor, anak muda asal Kampung Dalam Kabupaten Padang Pariaman yang bernomor punggung 6, yang pernah dikenakan Evan Dimas ini, mulai terpilih masuk di Timnas U-19 pada bulan Maret 2017.
+
+Sejak bergabung di Timnas U-19, Muhammad Iqbal mampu mejawab kepercayaan yang telah diberikan coach Indra Sajfi. Kepercayaan itu, dibuktikan bermain bagus dan selalu tampil baik disetiap pertandingan pada turnamen Toulon, Juni 2017 yang dihelat di prancis, melawan tim-tim muda beberapa negara di eropa, termasuk Amerika latin, seperti Timnas junior Brazil.
+
+Anak muda asal Korong Pasa Balai, Nagari Kudu Ganting, Kecamatan V Koto Timur, Kabupaten Padang Pariman itu, kemampuan bermain bolanya dipoles di pusat pendidikan dan Latihan pelajar (PPLP) Provinsi Sumbar, dibawah asuhan pelatih Dedi Umar.</item>
+        <item>Dalam Timnas, dirinya berposisi sebagai striker bernomor punggung 11. Sehabis era Timnas U-19 angkatan Evan Dimas Darmono, kini mucul lagi bibit-bibit baru timnas U-19 di bawah asuhan Indra Sjafri. Tak bisa dipungkiri memang tangan dingin coach Indra Sjafri ini selalu mampu menemukan talenta-talenta muda berbakat di pelosok negeri.
+
+Di Timnas U-19, ia akan bermain bersama Egy Maulana dan kawan-kawan dalam ajang Piala AFF U-18 yang berlangsung di Myanmar, 4-7 September 2017. Pada laga melawan klub Liga 3, ia menyelamatkan Timnas dari kekalahan dengan mencetak gol pada menit ke-67.
+
+Memiliki instink tinggi dalam mencetak gol, penempatan posisi yang bagus, sehingga membuat naluri gol Hanis Saghara ini selalu meledak-ledak. Mulai banyak yang membicarakan profil dan biodata Hanis Saghara. Bagaimana perjalanan karir Hanis Saghara, dan seluk beluk lainnya.</item>
+        <item>Kemampuannya bermain sepakbola sejak kecil memuluskan Egy Maulana Vikri masuk Timnas Junior Indonesia. Ia menorehkan prestasi di berbagai ajang nasional maupun internasional.
+
+Egy Maulana lahir di Medan, 7 Juli 2000. Ia menyukai sepakbola sejak kecil karena lingkungan keluarganya kebanyakan menyukai sepakbola. Untuk mengasah kemampuannya, Egy mengikuti sekolah bola SSB Tasbi, Medan.
+
+Bakatnya semakin terasah ketika memperkuat Asosiasi Sekolah Sepakbola Indonesia (ASSBI) Sumatera Utara pada perhelatan Grassroots Indonesia U-12 Tournament 2012 yang diadakan di Tangerang Selatan. Egy berhasil membawa klubnya menjadi juara sekaligus merebut gelar top scorer dengan 10 gol.
+
+Egy juga menjadi salah satu pemain yang berhasil membawa Indonesia juara pada ajang Gothia Cup di Swedia tahun 2015. Tidak hanya itu, pemain yang mengidolakan Lionel Messi ini juga menjadi pemain terbaik pada ajang tersebut kelompok U-15.
+
+Tahun 2016 bersama Persab Brebes, Egy salah satu pemain yang diandalkan, terbukti dengan melesatkan 19 gol di kompetisi Piala Soeratin 2016 ketika memasuki  babak 16 besar. Kemudian ia berhasil membawa timnya menjuarai Piala Suratin dan sekaligus menjadi pemain terbaik serta pencetak gol terbanyak pada turnamen tersebut.
+
+Salah satu prestasi yang membanggakanya adalah meraih Jouer Revelation Trophee pada Toulon Turnament 2017. Panelis turnamen menilai Egy sebagai pemain paling berpengaruh di tim. Gelar ini hanya diterima oleh satu pemain saja setiap tahunnya. Zinedine Zidane dan Cristiano Ronaldo pun pernah menerima piala ini.
+
+Dia menjadi satu-satunya pemain di Turnamen Toulon yang mendapatkan Jouer Revelation Trophee walau timnya tidak lolos fase grup. Padahal, di edisi sebelumnya, minimal si pemain mesti membawa tim lolos ke semifinal.
+
+Kemampuan dalam mengolah si kulit bundar yang begitu menawan, membuat pelatih Espanyol menjulukinya sebagai Messinya Indonesia.
+
+Berkat kehebatannya tersebut, Egy selalu masuk dan menjadi langganan Timnas Indonesia mulai dari U-16. Tidak salah jika Indra Sjafri memilih Egy untuk masuk skuat merah putih dalam ajang AFF Cup U-18 Myanmar 2017. Nama Egy semakin mencuat ketika berhasil menjebol gawang Myanmar berkat dua golnya bersama Timnas Indonesia di Piala AFF U-18. Namun sayang, kehebatan Egy bersama timnas Indonesia hanya meraih juara 3. Egy juga terpilih sebagai pencetak gol terbanyak pada ajang tersebut dengan total 8 gol.</item>
+    </string-array>
+
+    <string-array name="nama_pemain_tim_cadangan">
+        <item>Witan Sulaiman</item>
+        <item>Firza Andika</item>
+        <item>Indra Mustafa</item>
+        <item>Rafli Mursalim</item>
+        <item>Saddil Ramdani</item>
+    </string-array>
+
+    <string-array name="profile_pemain_tim_cadangan">
+        <item>Witan Sulaeman lahir di Palu, 8 Oktober 2001, umur 17 tahun adalah pemain sepak bola Kebangsaan Indonesia yang bermain untuk Klub PPLP Ragunan dan Tim Nasional Sepak bola Indonesia U-19 sebagai gelandang.</item>
+        <item>Firza Andika lahir di Medan, Sumatera Utara, 11 Mei 1999, umur 19 tahun adalah pemain sepak bola profesional berkebangsaan Indonesia yang bermain untuk klub Liga 1 PSMS Medan dan Timnas Indonesia U-19.</item>
+        <item>Indra Mustafa lahir di Bogor, 28 Juni 1999, umur 19 tahun, merupakan pemain sepak bola Indonesia yang bermain untuk Persib Bandung di Liga 1 2018.</item>
+        <item>Rafli Mursalim lahir di Tangerang, 5 Maret 1999, umur 19 tahun adalah Pemain Sepak bola berkebangsaan Indonesia yang bermain bersama Tim Indonesia U-19 sebagai Striker.</item>
+        <item>Saddil Ramdani lahir di Raha, Sulawesi Tenggara, 2 Januari 1999, umur 19 tahun adalah pesepakbola profesional Indonesia yang saat ini bermain untuk Persela Lamongan sebagai pemain sayap di Liga 1.</item>
+    </string-array>
+
+    <string-array name="detail_pemain_tim_cadangan">
+        <item>Witan Sulaeman adalah seorang pemain sepak bola asal Indonesia. \n  \n Ia dilahirkan di Palu, 8 Oktober 2001. Saat ini ia tergabung dalam skuat Garuda Nusantara Timnas Indonesia U-19.
+
+Pemain bertinggi badan 162 cm ini akan berlaga di ajang Piala AFF U-18 yang berlangsung di Myanmar 4-17 September 2017. Dalam timnas, ia didaulat untuk mengisi lini gelandang tengah.
+
+Rekan-rekan timnya mengatakan jika Witan memiliki penguasaan bola yang baik dan dapat menjadi pengatur serangan. Witan yang berusia 15 tahun ini menjadi pemain termuda di Timnas U-19 yang berlaga di ajang Piala AFF U-18 Myanmar.
+
+Sebelum masuk di Timnas U-19, Witan juga tergabung ke dalam skuat Timnas U-14. Saat itu, pelajar SMPN 2 Kota Palu itu menjadi satu-satunya atlet sepak bola yang mewakili Sulawesi Tengah dan bergabung dengan sejumlah atlet daerah lain di Timnas U-14.</item>
+
+        <item>Firza Andika adalah seorang pemain sepak bola asal Indonesia. Saat ini ia tergabung dalam skuat Garuda Nusantara Timnas U-19. Putra asli Medan ini akan berlaga di ajang Piala AFF U-18 yang berlangsung di Myanmar 4-17 September 2017. Dalam timnas, ia berposisi sebagai pemain belakang.
+
+Firza merantau ke Kota Padang saat ia berusia 8 tahun. Terbiasa dengan hidup merantau, membuatnya tidak banyak mengeluh saat harus ikut pemusatan latihan jangka panjang di timnas U-19.
+
+Meski terbiasa merantau, dirinya tetap tidak lupa pada keluarganya yang berada di Medan. Pemain yang mengidolakan sosok bintang Real Madrid, Marcelo ini mengaku selalu ingat pesan kedua orangtuanya. Pemain jebolan Akademi Semen Padang ini akan berlaga bersama skuat Garuda Nusantara lainnya.</item>
+        <item>TONGKAT estafet regenerasi pemain di Persib Bandung kini berada di sejumlah pemain muda yang promosi ke tim senior. Salah satunya adalah Indra Mustafa yang tampil apik bersama Persib U-19 tahun 2017.
+
+Sebagai satu-satunya pemain Persib U-19 yang masuk ke dalam skema pelatih Roberto Carlos Mario Gomez, Indra Mustafa merasa senang dan bersyukur atas kesempatan yang dia dapat.Indra Mustafa merupakan salah satu pemain kunci Persib U-19 saat menjadi runner up Liga 1 U-19 tahun 2017. Perannya yang vital di sektor pertahanan kerap membuat lawan kesulitan. Tak hanya itu, ia pun dikenal dengan kemampuannya melakukan lemparan bola akurat ke arah gawang lawan.</item>
+        <item>M. Rafli Mursalim merupakan pemain dari Pondok Pesantren Al-As’ariyah Banten (Top Skor LSN 2016) yang lolos dalam tahap seleksi Timnas U-19 bersama dengan 35 pemain yang lain dan perwakilan dari Tangerang Selatan.
+
+Laki-laki kelahiran 5 Meret 1999 ini lolos dalam seleksi Timnas U-19 dan mendapatkan posisi sebagai penyerang. Rafli merupakan putra dari Bapak Faisal yang merupakan mantan Manager Persija U-21 dan juga merupakan Pimpinan SSB Fortuna FC.
+
+Rafli akan bermain bersama Timnas U-19 dalam turnamen yang berlangsung di Myanmar pada 4-17 September 2017 di Grup B melawan tuan rumah Myanmar, Vietnam, Brunei Darusalam, Filipina, dan tim undangan Selandia Baru.</item>
+        <item>Saddil Ramdani adalah seorang pesepakbola profesional Indonesia yang saat ini bermain untuk Persela Lamongan sebagai pemain sayap di Liga 1.
+
+Remaja kelahiran Roda, sebuah kota kecil di Kabupaten Raha, Sulawesi Tenggara ini memiliki . kecepatan, keberanian dan semangat yang diperlihatkan selama memperkuat Timnas dalam ujicoba jelang Piala AFF U-19 2016 di Vietnam menjadikannya sosok yang penulis juluki ‘The Next Maldini Pali’ di Timnas U-19.
+
+Sadil Ramdani bahkan sejak pergelaran Indonesia Soccer Championahip sudah menjadi pemain inti di Persela Lamongan meski usianya masih sangat belia. Perjalanan karir Sadil ini cukup panjang dan berliku.
+
+Sadil Ramdani, seperti pada umumnya pemuda dari timur, memiliki bakat bola alami yang memang sangat mengagumkan. Kemampuan luar biasa yang ia miliki inilah yang kemudian membuat pelatih timnas U-19 Eduard Tjong kepincut dan mengambilnya untuk memperkuad timnas U-19.
+
+Sadil Ramdani yang besar di Muna Sulawesi Tenggara tidak pernah mengenyam pendidikan sekolah sepakbola. Sadil Ramdani tumbuh secara alami dengan bakat dan talenta yang menonjol sejak dari kecil.
+
+Baru kemudian Sadil Ramdani mendapat pendidikan sepakbola setelah ia dibawa oleh seorang pemandu bakat untuk masuk di ASIFA (Aji Santoso Footbal Academy) di Malang. Di ASIFA, Sadil Ramdani mendapatkan asupan materi sepakbola modern yang tentu saja akan membuat kemampuan Sadil Ramdani semakin berkembang dan semakin terasah.</item>
+    </string-array>
+
+</resources>
